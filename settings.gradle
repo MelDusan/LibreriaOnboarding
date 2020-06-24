@@ -1,0 +1,3 @@
+rootProject.name='LibreriaOnboarding'
+include ':app'
+include ':mylibraryonboarding'
